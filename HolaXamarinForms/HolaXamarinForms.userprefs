@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{9A13E5B2-3928-4B99-9B07-9B51247F9D0D}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HolaXamarinForms.Droid PreferredExecutionTarget="Android.Nexus_5X_API_25_x86_64" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HolaXamarinForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.127F48E1-1D41-4C5F-81AB-A1481A424439" />
+</Properties>

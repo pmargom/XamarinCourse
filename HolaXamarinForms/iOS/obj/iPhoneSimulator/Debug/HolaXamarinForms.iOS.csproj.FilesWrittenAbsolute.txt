@@ -1,0 +1,15 @@
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/HolaXamarinForms.iOS.exe.mdb
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/HolaXamarinForms.iOS.exe
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/obj/iPhoneSimulator/Debug/HolaXamarinForms.iOS.exe
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/obj/iPhoneSimulator/Debug/HolaXamarinForms.iOS.exe.mdb
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/HolaXamarinForms.dll
+/Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/iOS/bin/iPhoneSimulator/Debug/HolaXamarinForms.dll.mdb
