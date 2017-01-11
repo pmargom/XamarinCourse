@@ -12,3 +12,17 @@
 /Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/HolaXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
 /Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/HolaXamarinForms/bin/Debug/Xamarin.Forms.Platform.dll
 /Users/pedromartingomez/Desktop/VisualStudio/HolaXamarinForms/HolaXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.App.xaml
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.HolaXamarinFormsPage.xaml
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.Views.MainView.xaml
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.App.xaml.g.cs
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.HolaXamarinFormsPage.xaml.g.cs
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.Views.MainView.xaml.g.cs
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/bin/Debug/HolaXamarinForms.dll.mdb
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/bin/Debug/HolaXamarinForms.dll
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.dll
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/obj/Debug/HolaXamarinForms.dll.mdb
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/pedromartingomez/Documents/Git/XamarinCourse/HolaXamarinForms/HolaXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
